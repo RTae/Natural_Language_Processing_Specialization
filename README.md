@@ -19,13 +19,19 @@
 - **week 4** : Word embeddings with neural networks
    - :earth_asia: Programming Assignment : Word Embeddings
 
-:pushpin: **Course 3 : Natural Language Processing with Classification and Vector Spaces**
-- **week 1** : Sentiment Analysis with Logistic Regression
+:pushpin: **Course 3 : Natural Language Processing with Sequence Models**
+- **week 1** : Neural Networks for Sentiment Analysis
    - :house: Programming Assignment : Sentiment Analysis with Logistic Regression
-- **week 2** : Naïve Bayes
+- **week 2** : Recurrent Neural Networks for Language Modeling
    - :black_nib:  Programming Assignment : Naive Bayes
-- **week 3** : Word embeddings
+- **week 3** : LSTMs and Named Entity Recognition
    - :muscle: Programming Assignment : Word Embeddings
-- **week 4** : Word Translation
+- **week 4** : Siamese Networks
    - :earth_asia: Programming Assignment : Word Translation
+   
+:pushpin: **Course 3 : Natural Language Processing with Attention Models**
+- **week 1** : Neural Machine Translation
+   - :house: Programming Assignment : Sentiment Analysis with Logistic Regression
+- **week 2** : Text Summarization
+   - :black_nib:  Programming Assignment : Naive Bayes
   
