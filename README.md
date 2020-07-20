@@ -29,7 +29,7 @@
 - **week 4** : Siamese Networks
    - :earth_asia: Programming Assignment : Word Translation
    
-:pushpin: **Course 3 : Natural Language Processing with Attention Models**
+:pushpin: **Course 4 : Natural Language Processing with Attention Models**
 - **week 1** : Neural Machine Translation
    - :house: Programming Assignment : Sentiment Analysis with Logistic Regression
 - **week 2** : Text Summarization
